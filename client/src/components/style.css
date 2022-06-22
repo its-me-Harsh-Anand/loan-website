@@ -1,0 +1,16 @@
+.mob
+    {
+        width:20%;
+        height:40%;
+    }
+
+
+    
+ @media only screen and (max-width: 700px)
+{
+    .mob
+    {
+        width:60%;
+        height:45%;
+    }
+}

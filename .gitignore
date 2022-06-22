@@ -1,0 +1,4 @@
+/admin/.env.local
+/client/.env
+/server/.env
+/server/test.rest
